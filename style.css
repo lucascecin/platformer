@@ -1,0 +1,7 @@
+#canvas {
+    background-color: white;
+    background-image: url();
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+}
